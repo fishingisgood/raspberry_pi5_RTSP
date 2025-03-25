@@ -9,6 +9,7 @@
 1. 下載專案後，給予執行權限：
 
     ```bash
+    cd raspberry_pi5_RTSP
     chmod +x run.sh
     ```
 
